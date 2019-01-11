@@ -3,7 +3,7 @@
 entries:
 - title: sidebar
   product: Software Engineering with UAVs
-  version: 6.0
+  version: 
   folders:
 
   - title:
@@ -48,7 +48,7 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: 6.0 Release notes
+    - title: 6.0 Release notes 
       url: /mydoc_release_notes_60.html
       output: web, pdf
 
