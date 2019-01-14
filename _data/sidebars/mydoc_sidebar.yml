@@ -23,7 +23,7 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: About the course
+    - title: About this course 
       url: /mydoc_about.html 
       output: web, pdf
       type: homepage
