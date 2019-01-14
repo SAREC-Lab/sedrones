@@ -1,8 +1,8 @@
-# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+# Sidebar
 
 entries:
 - title: sidebar
-  product: Software Engineering with UAVs
+  product: Software Engineering with UAVs 
   version: 
   folders:
 
@@ -23,8 +23,8 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: About
-      url: /index.html
+    - title: About the course
+      url: /mydoc_about.html 
       output: web, pdf
       type: homepage
       
