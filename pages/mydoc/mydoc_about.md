@@ -1,9 +1,9 @@
 ---
-title: About the theme's author
-keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
-last_updated: July 3, 2016
+title: About this course
+keywords: UAV, Software Engineering, Drone
+last_updated: Jan 14, 
 tags: [getting_started]
-summary: "I have used this theme for projects that I've worked on as a professional technical writer."
+summary: "An expedited introduction to programming UAVs using DroneKit Python.  Serves as a precursor to a project-based course using UAVs."
 sidebar: mydoc_sidebar
 permalink: mydoc_about.html
 folder: mydoc
