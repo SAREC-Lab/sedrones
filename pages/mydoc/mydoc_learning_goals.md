@@ -6,6 +6,7 @@ folder: mydoc
 ---
 
 ## Learning Objectives
+
 * UAV Development and Calibration: including Python, MavProxy and DroneKit.  Students will programmatically control UAVs.  They will use existing tools to calibrate UAVs and to inspect their logs.
 * FAA Regulations: UAVs flying a controlled airspace.  Students will be familiar with governing regulations as well as safety standards.
 * Software Engineering techniques: Students will apply appropriate Software and Systems Engineering practices related to safety analysis, requirements engineering, architectural design, and testing to develop a non-trivial, fully functioning UAV application.

@@ -1,5 +1,5 @@
 ---
-title: About SE with UAVs
+title: About SE with UAVs 
 sidebar: mydoc_sidebar
 permalink: mydoc_about.html
 folder: mydoc
