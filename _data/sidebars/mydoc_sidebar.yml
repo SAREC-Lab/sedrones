@@ -57,7 +57,7 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Slides
+    - title: Class Slides
       url: /mydoc_slides.html
       output: web, pdf
 
