@@ -7,10 +7,6 @@ folder: mydoc
 
 ## Instructor Information
 
-|Co-Instructor: |Dr. Michael Vierhauser |
-|Email:		| mvierhau@nd.edu|
-|Office Hours: 	|	Upon request |
-
 |Instructor: |Professor Jane Cleland-Huang |
 |Class Location: | Stinson Remick Hall 212 |
 |Times:|Wednesday: 3.30pm – 6.15pm (includes a 15 minute break)|
