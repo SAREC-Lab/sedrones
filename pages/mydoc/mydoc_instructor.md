@@ -5,7 +5,7 @@ permalink: mydoc_instructor.html
 folder: mydoc
 ---
 
-## Instructor Information
+## Instructor Information 
 
 |Instructor: |Professor Jane Cleland-Huang |
 |Office Location:|	Fitzpatrick 354 |
