@@ -1,4 +1,4 @@
----
+﻿---
 title: Instructor Information and TAs
 sidebar: mydoc_sidebar
 permalink: mydoc_instructor.html
@@ -6,6 +6,10 @@ folder: mydoc
 ---
 
 ## Instructor Information
+
+|Co-Instructor: |Dr. Michael Vierhauser |
+|Email:		| mvierhau@nd.edu|
+|Office Hours: 	|	Upon request |
 
 |Instructor: |Professor Jane Cleland-Huang |
 |Class Location: | Stinson Remick Hall 212 |
