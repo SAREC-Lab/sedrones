@@ -15,7 +15,7 @@ and then engage in a project.
 
 |Semester: | Spring, 2019 |
 |Class Location: | Stinson Remick Hall 212 |
-|Times: | Wednesday: 3.30pm – 6.15pm (includes a 15 minute break)|
+|Times: | Wednesday: 3.30pm - 6.15pm (includes a 15 minute break)|
 
 This website will be under construction throughout the Spring of 2019 with resources added each week.
 
