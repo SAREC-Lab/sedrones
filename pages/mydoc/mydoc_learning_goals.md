@@ -1,11 +1,13 @@
 ---
-title: Learning Goals
+title: Learning Objectives
 sidebar: mydoc_sidebar
 permalink: mydoc_learning_goals.html
 folder: mydoc
 ---
 
-## Learning Objectives
+## Objectives
+
+As a result of taking this course students should acquire expertise in the following:
 
 * UAV Development and Calibration: including Python, MavProxy and DroneKit.  Students will programmatically control UAVs.  They will use existing tools to calibrate UAVs and to inspect their logs.
 * FAA Regulations: UAVs flying a controlled airspace.  Students will be familiar with governing regulations as well as safety standards.
