@@ -10,11 +10,13 @@ folder: mydoc
 ---
 
 ## Overview
+
 This course material has been developed at the University of Notre Dame to support an undergraduate level, project-based Software Engineering
 course using small Unmanned Aerial Vehicles (UAV).  Students spend the first 6-7 weeks learning fundamental development skills
 and then engage in a project.
 
 ## Class Logistics
+
 |Semester: | Spring, 2019 |
 |Class Location: | Stinson Remick Hall 212 |
 |Times:|Wednesday: 3.30pm – 6.15pm (includes a 15 minute break)|

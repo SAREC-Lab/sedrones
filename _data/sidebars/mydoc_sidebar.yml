@@ -37,7 +37,7 @@ entries:
       output: web, pdf
       type: homepage
       
-    - title: Learning goals
+    - title: Learning objectives
       url: /mydoc_learning_goals.html
       output: web, pdf
 
