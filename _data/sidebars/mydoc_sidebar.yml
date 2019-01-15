@@ -19,14 +19,13 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Home
-    url: /index.html 
-    output: web, pdf
-    type: homepage
-
   - title: Overview
     output: web, pdf
     folderitems:
+
+    - title: Home
+      url: /index.html 
+      output: web, pdf
 
     - title: About this course 
       url: /mydoc_about.html 
