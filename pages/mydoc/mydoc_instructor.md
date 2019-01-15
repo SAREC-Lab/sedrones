@@ -6,6 +6,12 @@ folder: mydoc
 ---
 
 ## Instructor Information
+| Priority apples | Second priority | Third priority |
+|-------|--------|---------|
+| ambrosia | gala | red delicious |
+| pink lady | jazz | macintosh |
+| honeycrisp | granny smith | fuji |
+```
 
 |Instructor: |Professor Jane Cleland-Huang |
 |Class Location: | Stinson Remick Hall 212 |
