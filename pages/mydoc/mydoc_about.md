@@ -1,5 +1,5 @@
 ---
-title: About this course
+title: About the course
 keywords: UAV, Software Engineering, Drone
 last_updated: Jan 14, 
 tags: [getting_started]
