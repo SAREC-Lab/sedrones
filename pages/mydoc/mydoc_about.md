@@ -1,7 +1,7 @@
 ---
 title: Environment
 sidebar: mydoc_sidebar
-permalink: mydoc_environment.html
+permalink: mydoc_about.html
 folder: mydoc
 ---
 
