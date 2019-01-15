@@ -20,6 +20,6 @@ and then engage in a project.
 This website will be under construction throughout the Spring of 2019 with resources added each week.
 
 Note: Installation on the Mac normally requires several 'tweaks' depending exactly on what version you are running and what is already installed.
-We will be updating this page with an FAQ to document these tweaks.  
+We will be updating this page with an FAQ to document these tweaks..
 
 {% include links.html %}
