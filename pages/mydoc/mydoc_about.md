@@ -9,11 +9,14 @@ permalink: mydoc_about.html
 folder: mydoc
 ---
 
-This course material has been developed at the University of Notre Dame to support a project-based Software Engineering
+## Overview
+This course material has been developed at the University of Notre Dame to support an undergraduate level, project-based Software Engineering
 course using small Unmanned Aerial Vehicles (UAV).  Students spend the first 6-7 weeks learning fundamental development skills
 and then engage in a project.
 
-We utilize [dronekit python] (http://python.dronekit.io/about/index.html) as well as some resources developed as part of the
-[Dronology project] (http://dronology.info) .
+## Class Logistics
+|Semester: | Spring, 2019 |
+|Class Location: | Stinson Remick Hall 212 |
+|Times:|Wednesday: 3.30pm – 6.15pm (includes a 15 minute break)|
 
-This website is under construction during the Spring of 2019 with resources added each week.
+This website will be under construction throughout the Spring of 2019 with resources added each week.

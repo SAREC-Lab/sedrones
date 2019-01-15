@@ -8,8 +8,6 @@ folder: mydoc
 ## Instructor Information
 
 |Instructor: |Professor Jane Cleland-Huang |
-|Class Location: | Stinson Remick Hall 212 |
-|Times:|Wednesday: 3.30pm – 6.15pm (includes a 15 minute break)|
 |Office Location:|	Fitzpatrick 354 |
 |Phone:  	|574-631-3637|
 |Email:		|JaneClelandHuang@nd.edu|

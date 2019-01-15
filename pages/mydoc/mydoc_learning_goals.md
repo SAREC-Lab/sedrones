@@ -1,30 +1,15 @@
 ---
-title: Introduction2
+title: Learning Goals
 sidebar: mydoc_sidebar
-permalink: mydoc_introduction2.html
+permalink: mydoc_learning_goals.html
 folder: mydoc
 ---
 
-## Overview
-
-This site provides documentation, training, and other notes for the Jekyll Documentation theme. There's a lot of information about how to do a variety of things here, and it's not all unique to this theme. But by and large, understanding how to do things in Jekyll depends on how your theme is coded. As a result, these additional details are provided.
-
-The instructions here are geared towards technical writers working on documentation. You may have a team of one or more technical writers working on documentation for multiple projects. You can use this same theme to author all of your documentation for each of your products. The theme is built to accommodate documentation for multiple products on the same site.
-
-## Survey of features
-
-Some of the more prominent features of this theme include the following:
-
-* Bootstrap framework
-* [Navgoco multi-level sidebar](http://www.komposta.net/article/navgoco) for table of contents
-* Ability to specify different sidebars for different products
-* Top navigation bar with drop-down menus
-* Notes, tips, and warning information notes
-* Tags for alternative navigation
-* Advanced landing page layouts from the [Modern Business theme](http://startbootstrap.com/template-overviews/modern-business/).
-
-## Getting started
-
-To get started, see [Getting Started][index].
-
-{% include links.html %}
+## Learning Objectives
+* UAV Development and Calibration: including Python, MavProxy and DroneKit.  Students will programmatically control UAVs.  They will use existing tools to calibrate UAVs and to inspect their logs.
+* FAA Regulations: UAVs flying a controlled airspace.  Students will be familiar with governing regulations as well as safety standards.
+* Software Engineering techniques: Students will apply appropriate Software and Systems Engineering practices related to safety analysis, requirements engineering, architectural design, and testing to develop a non-trivial, fully functioning UAV application.
+* Problem solving: Students will address challenging problems such as developing and evaluating collision avoidance algorithms for multiple UAVs.
+* UAV Hardware:  Students will learn to work with UAV related hardware such as RTK, Raspberry Pis onboard, and wifi-in-the-sky.
+* Ethics of Drones:  Software systems, especially ones that involve physical computing devices, impact society as a whole.  Through proposing an application with Societal benefits, students will think critically about pertinent issues related to use of drones in society and be able to articulate the major issues involved.  
+* Communication and Team skills: Students will work as part of a team to describe their technical designs and solutions verbally and in writing.
