@@ -45,7 +45,7 @@ entries:
       url: /mydoc_schedule.html
       output: web, pdf
       
-  - title: Class Materials
+  - title: Course Materials
     output: web, pdf
     folderitems:
 
