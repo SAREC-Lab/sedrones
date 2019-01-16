@@ -2,8 +2,8 @@
 
 entries:
 - title: sidebar
-  product: SE with UAVs 
-  version: 0.1
+  product: 
+  version: 
   folders: 
 
   - title:
@@ -19,7 +19,7 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Overview
+  - title: Course Logistics
     output: web, pdf
     folderitems:
 
@@ -27,7 +27,7 @@ entries:
       url: /index.html 
       output: web, pdf
 
-    - title: About this course 
+    - title: About the course 
       url: /mydoc_about.html 
       output: web, pdf
       type: homepage
@@ -61,11 +61,7 @@ entries:
       url: /mydoc_homework.html
       output: web, pdf     
 
-  - title: Getting started
-    output: web, pdf
-    folderitems:
-
-    - title: Setting up your environment 
+     - title: Setting up your environment 
       url: /mydoc_environment.html
       output: web, pdf
 
