@@ -25,7 +25,15 @@ VMWare tends to have fewer issues for mounting flash drives and telemetry radios
 * Download the SE_with_drones VM from this [link](https://drive.google.com/a/nd.edu/file/d/1JMvK_rWuA0fdvAaOUo0eOLSqLNwTOas7/view?usp=sharing)
 * Start up your Virtual Box using this VM.
 
-Note: Installation on the Mac normally requires several 'tweaks' depending exactly on what version you are running and what is already installed.
-We will be updating this page with an FAQ to document these tweaks.  
+## Linux:
+* Installation scripts will be provided upon request.
+
+## Tips for solving installation problems.
+
+We often encounter minor problems when installing on the Mac.  Here are tips for resolving these issues.
+
+* If you have a dual boot computer with Mac and Windows, we strongly recommend installing the VMWare option on Windows.  It leads to a far easier
+installation with fewer problems.  In particular we have found that VirtualBox may sometimes run slowly.  
+* More coming soon.
 
 {% include links.html %}
