@@ -15,8 +15,8 @@ topnav_dropdowns:
     - title: Other Links
       folderitems:
         - title: University of Notre Dame
-          external_url: [Notre Dame](https://engineering.nd.edu/)
-        - title: Product 1
-          url: /p1_landing_page.html
-        - title: Product 2
-          external_url: http://www.google.com
+          external_url: https://engineering.nd.edu/
+        - title: SAREC Research Lab
+          external_url: http://sarec.nd.edu
+        - title: Dronology Project
+          external_url: http://dronology.info
