@@ -61,7 +61,7 @@ entries:
       url: /mydoc_homework.html
       output: web, pdf     
 
-     - title: Setting up your environment 
+    - title: Setting up your environment 
       url: /mydoc_environment.html
       output: web, pdf
 
