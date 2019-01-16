@@ -18,11 +18,11 @@ individual github repositories assigned to each student.  Assignments 5-6 will b
 |4 | Feb 06th | Connect GCS to Map | 5 points ||
 |5 | Feb 13th | Drone-to-drone Communication (Team project - 3 people) | 5 points ||
 |6 | Feb 20th | Multi Drone-Communication continued. | 5 points ||
-|7 | Feb 27th | Prepare flight test portfolio, Acceptance Tests | 3 points + 3 points (when flown) |
+|7 | Feb 27th | Prepare flight test portfolio, Acceptance Tests | 5 points (after flight) |
+|8 | Feb 20th - March 06 | FAA Part 107b Online Quiz  | 5 points |
 
 ## Project deliverables
 
 All projects will be team projects with 2-4 team members. The schedule of deliverables will be listed here.
 
-{% include links.html %}
 {% include links.html %}
