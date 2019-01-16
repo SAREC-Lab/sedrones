@@ -22,8 +22,9 @@ individual github repositories assigned to each student.  Assignments 5-6 will b
 |8 | Feb 20th - March 06 | FAA Part 107b Online Quiz  | 5 points ||
 
 ## Project deliverables
-| Num | Date Assigned | Description | Points | Link|
 All projects will be team projects with 2-4 team members. 
+
+| Num | Date Assigned | Description | Points | Link|
 |-----|---------------|---------------------------------|------|-------------------|
 |9| March 6th | Team presentation + initial project documentation | 5 points | |
 
