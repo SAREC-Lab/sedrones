@@ -25,9 +25,9 @@ the course environment, available via a VM, in order to complete the homework as
 This is primarily a projects based course, and so the majority of points are assigned based on the team project.
 Everyone will work with a team of 2-4 people. Teams may be self-organized according to project interests; however
 the instructor reserves the right to add additional people to teams to ensure a good fit for every student.  Project
-teams will be formed by February 27th.
+teams will be formed by February 27th.  The following dates represent TURN IN DATES.
 
-| Num | Date Assigned | Description | Points | Link|
+| Num | Date DUE | Description | Points | Link|
 |-----|---------------|---------------------------------|------|-------------------|
 |9| March 6th | Initial Team presentation + project documentation | 5 points | |
 |10| March 20th | Requirements, Architecture, and Screen Mockups due | 5 points | |
