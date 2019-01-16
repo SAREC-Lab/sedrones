@@ -12,6 +12,6 @@ folder: mydoc
 
 ## General Drone flying resources
 
-* [FAA Part 107b Regulations for Small Unmanned Aerial Aircraft operation] (https://www.faa.gov/news/fact_sheets/news_story.cfm?newsId=20516)
+* [FAA Part 107b Regulations for Small Unmanned Aerial Aircraft operation](https://www.faa.gov/news/fact_sheets/news_story.cfm?newsId=20516)
 
 {% include links.html %}

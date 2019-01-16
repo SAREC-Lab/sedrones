@@ -49,15 +49,15 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Environment 
+    - title: Setting up your environment 
       url: /mydoc_environment.html
       output: web, pdf
 
-    - title: Online resources
+    - title: General resources
       url: /mydoc_resources.html
       output: web, pdf
 
-  - title: Resources
+  - title: Class Materials
     output: web, pdf
     folderitems:
 
