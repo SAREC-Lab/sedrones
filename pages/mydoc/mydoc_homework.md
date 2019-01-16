@@ -1,11 +1,11 @@
 ---
-title: Homework Assignments
+title: Course Deliverables
 sidebar: mydoc_sidebar
 permalink: mydoc_homework.html
 folder: mydoc
 ---
 
-## Homework & quiz deliverables for first part of semester (40 points)
+## Homework (40 points)
 
 All homework is assigned on Wednesday and due by midnight the following Tuesday.  Students will need to install
 the course environment, available via a VM, in order to complete the homework assignments.
@@ -21,8 +21,11 @@ the course environment, available via a VM, in order to complete the homework as
 |7 | Feb 27th | Prepare flight test portfolio, Acceptance Tests | 5 points (after flight) ||
 |8 | Mar 6th | FAA Part 107b + Safety Assurance online quiz  | 5 points ||
 
-## Project deliverables (60 points)
-All projects will be team projects with 2-4 team members.  
+## Project (60 points)
+This is primarily a projects based course, and so the majority of points are assigned based on the team project.
+Everyone will work with a team of 2-4 people. Teams may be self-organized according to project interests; however
+the instructor reserves the right to add additional people to teams to ensure a good fit for every student.  Project
+teams will be formed by February 27th.
 
 | Num | Date Assigned | Description | Points | Link|
 |-----|---------------|---------------------------------|------|-------------------|
