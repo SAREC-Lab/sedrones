@@ -21,14 +21,14 @@ break -- otherwise flying will commence after Spring break.
 |6 | Feb 20th | Presentations (Hwk 5), Calibration, Setting Geo-Fence| 5 points |
 |7 | Feb 27th | Project brainstorming and assignments.  Project time. | Flying + Project teams.|
 |8 | March 06 | Group time. Project presentations. (IF weather is warm -- Flying!) |Project teams or flying. |
-
-The schedule will be posted to show team deliverables.  Major landmarks will include:
-
-| Num | Deliverable|
-|-----|---------------|
-| 1| Decide on teams and projects |
-| 2| Preliminary team presentation (prior to spring break) |
-| 3| Intermediate demo to Instructor at the flying field with team portfolio turned in |
-| 4| Final presentation during last week of class must include video of final project |
-
+|9| March 6th | Initial Team presentation + project documentation | Presentations + group time|
+|10| March 20th | Project time |Team meetings, Meet with instructor|
+|11| March 27th| Project time | Team meetings, Meet with instructor |
+|12| April 3rd | Proof of concept *flying* demo due with physical UAVs | Scheduled demos at White Field |
+|13| April 10th | Project time| Team meetings, Meet with instructor |
+|14| April 17th| Focus on safety activities | Team meetings, Instructor meetings|
+|15| April 24th | Focus on testing activities| Team meetings, Instructor meetings |
+|16| May 1st | Formal presentation to external panel |Panel|
+|17| May 9th | Finals week | n/a|
+|18| May 9th | Finals week | n/a |
 {% include links.html %}
