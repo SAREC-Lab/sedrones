@@ -44,19 +44,7 @@ entries:
     - title: Schedule
       url: /mydoc_schedule.html
       output: web, pdf
-
-  - title: Getting started
-    output: web, pdf
-    folderitems:
-
-    - title: Setting up your environment 
-      url: /mydoc_environment.html
-      output: web, pdf
-
-    - title: General resources
-      url: /mydoc_resources.html
-      output: web, pdf
-
+      
   - title: Class Materials
     output: web, pdf
     folderitems:
@@ -69,8 +57,20 @@ entries:
       url: /mydoc_reading.html
       output: web, pdf
 
-    - title: Homework assignments
+    - title: Deliverables
       url: /mydoc_homework.html
+      output: web, pdf     
+
+  - title: Getting started
+    output: web, pdf
+    folderitems:
+
+    - title: Setting up your environment 
+      url: /mydoc_environment.html
+      output: web, pdf
+
+    - title: General resources
+      url: /mydoc_resources.html
       output: web, pdf
 
   - title: Projects
