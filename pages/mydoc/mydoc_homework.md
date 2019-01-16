@@ -12,7 +12,7 @@ individual github repositories assigned to each student.  Assignments 5-6 will b
 
 | Num | Date Assigned | Description | Points | Link|
 |-----|---------------|---------------------------------|------|-------------------|
-|1 | Jan 16th | Hello SITL Drone! | 5 points | |
+|1 | Jan 16th | Hello SITL Drone! | 5 points |[Homework1](https://sarec-lab.github.io/sedrones/pdf/2019-Assignment1) |
 |2 | Jan 23rd | Follow me! Waypoints vs. Velocity Vectors | 5 points |  |
 |3 | Jan 30th | Build your own GCS | 5 points ||
 |4 | Feb 06th | Connect GCS to Map | 5 points ||
