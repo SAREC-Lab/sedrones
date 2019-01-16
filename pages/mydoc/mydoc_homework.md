@@ -12,7 +12,7 @@ individual github repositories assigned to each student.  Assignments 5-6 will b
 
 | Num | Date Assigned | Description | Points | Link|
 |-----|---------------|---------------------------------|------|-------------------|
-|1 | Jan 16th | Hello SITL Drone! | 5 points | Coming soon!|
+|1 | Jan 16th | Hello SITL Drone! | 5 points | |
 |2 | Jan 23rd | Follow me! Waypoints vs. Velocity Vectors | 5 points |  |
 |3 | Jan 30th | Build your own GCS | 5 points ||
 |4 | Feb 06th | Connect GCS to Map | 5 points ||
@@ -22,7 +22,11 @@ individual github repositories assigned to each student.  Assignments 5-6 will b
 |8 | Feb 20th - March 06 | FAA Part 107b Online Quiz  | 5 points |
 
 ## Project deliverables
+| Num | Date Assigned | Description | Points | Link|
+All projects will be team projects with 2-4 team members. 
+|-----|---------------|---------------------------------|------|-------------------|
+|9| March 6th | Team presentation + initial project documentation | 5 points | |
 
-All projects will be team projects with 2-4 team members. The schedule of deliverables will be listed here.
+The remaining schedule of team and individual deliverables will be listed here.
 
 {% include links.html %}

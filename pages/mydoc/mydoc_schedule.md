@@ -1,30 +1,34 @@
 ---
-title: Introduction2
+title: Class Schedule
 sidebar: mydoc_sidebar
-permalink: mydoc_introduction2.html
+permalink: mydoc_schedule.html
 folder: mydoc
 ---
 
-## Overview
+## Class Schedule
 
-This site provides documentation, training, and other notes for the Jekyll Documentation theme. There's a lot of information about how to do a variety of things here, and it's not all unique to this theme. But by and large, understanding how to do things in Jekyll depends on how your theme is coded. As a result, these additional details are provided.
+Please note: If we find a warm day to go flying we will adjust the schedule accordingly. If this happens then lecture notes for that week will
+be recorded so that we can retain the homework schedule.  Alternately if there is a warm weekend day there will be an optional flying time before Spring
+break -- otherwise flying will commence after Spring break.
 
-The instructions here are geared towards technical writers working on documentation. You may have a team of one or more technical writers working on documentation for multiple projects. You can use this same theme to author all of your documentation for each of your products. The theme is built to accommodate documentation for multiple products on the same site.
+| Num | Class Date | Description | Class Activity|
+|-----|---------------|---------------------------------|-------------------|
+|1 | Jan 16th | Introduction. Brief intro to Dronekit Python. First Flight!| Setup environment. Run first program|
+|2 | Jan 23rd | Dronekit basics. Waypoints vs. Velocity vectors. FAA regulations. | Lab: Hello Physical Drone! Airspace Maps|
+|3 | Jan 30th | Working with multiple drones. Ground Control Stations | Lab: Connecting to multiple SITL instances ||
+|4 | Feb 06th | Safety Assurance for Cyber Physical Systems | Lab: Safety Cases|
+|5 | Feb 13th | Working with companion computers and in-air drone-to-drone communication| Lab: SITL exercise using PIs|
+|6 | Feb 20th | Presentations (Hwk 5), Calibration, Setting Geo-Fence| 5 points |
+|7 | Feb 27th | Project brainstorming and assignments.  Project time. | Flying + Project teams.|
+|8 | March 06 | Group time. Project presentations. (IF weather is warm -- Flying!) |Project teams or flying. |
 
-## Survey of features
+The schedule will be posted to show team deliverables.  Major landmarks will include:
 
-Some of the more prominent features of this theme include the following:
-
-* Bootstrap framework
-* [Navgoco multi-level sidebar](http://www.komposta.net/article/navgoco) for table of contents
-* Ability to specify different sidebars for different products
-* Top navigation bar with drop-down menus
-* Notes, tips, and warning information notes
-* Tags for alternative navigation
-* Advanced landing page layouts from the [Modern Business theme](http://startbootstrap.com/template-overviews/modern-business/).
-
-## Getting started
-
-To get started, see [Getting Started][index].
+| Num | Deliverable|
+|-----|---------------|
+| 1| Decide on teams and projects |
+| 2| Preliminary team presentation (prior to spring break) |
+| 3| Intermediate demo to Instructor at the flying field with team portfolio turned in |
+| 4| Final presentation during last week of class must include video of final project |
 
 {% include links.html %}
