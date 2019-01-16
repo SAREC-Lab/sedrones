@@ -10,16 +10,16 @@ folder: mydoc
 All homework is assigned on Wednesday and due by midnight the following Tuesday.  Students will need to install
 the course environment, available via a VM, in order to complete the homework assignments.
 
-| Num | Date Assigned | Description | Points | Link| Reading|
+| Num | Assigned| Due | Description |Points | Link| Reading|
 |-----|---------------|---------------------------------|------|-------------------|-----------|
-|1 | Jan 16th | Hello SITL Drone! | 5 points |[Homework1](https://sarec-lab.github.io/sedrones/pdf/2019-Assignment1.pdf) |[Therac](https://drive.google.com/file/d/1eFU9zddbomDp_acTg6mUFz5MZUXngYAC/view?usp=sharing)|
-|2 | Jan 23rd | Follow me! Waypoints vs. Velocity Vectors | 5 points |  ||
-|3 | Jan 30th | Build your own GCS | 5 points |||
-|4 | Feb 06th | Connect GCS to Map | 5 points |||
-|5 | Feb 13th | Drone-to-drone Communication (Team project - 3 people) | 5 points |||
-|6 | Feb 20th | Multi Drone-Communication continued. | 5 points |||
-|7 | Feb 27th | Prepare flight test portfolio, Acceptance Tests | 5 points (after flight) ||
-|8 | Mar 6th | FAA Part 107b + Safety Assurance online quiz  | 5 points ||
+|1 | Jan 16th | Jan 22nd |Hello SITL Drone! | 5 points |[Homework1](https://sarec-lab.github.io/sedrones/pdf/2019-Assignment1.pdf) |[Therac](https://drive.google.com/file/d/1eFU9zddbomDp_acTg6mUFz5MZUXngYAC/view?usp=sharing)|
+|2 | Jan 23rd | Jan 29th |Follow me! Waypoints vs. Velocity Vectors | 5 points |  ||
+|3 | Jan 30th | Feb 5th |Build your own GCS | 5 points |||
+|4 | Feb 06th | Feb 12th |Connect GCS to Map | 5 points |||
+|5 | Feb 13th | Feb 19th |Drone-to-drone Communication (Team project - 3 people) | 5 points |||
+|6 | Feb 20th | Feb 26th| Multi Drone-Communication continued. | 5 points |||
+|7 | Feb 27th | Mar 5th |Prepare flight test portfolio, Acceptance Tests | 5 points (after flight) ||
+|8 | Mar 27th | Mar 5th | FAA Part 107b + Safety Assurance online quiz  | 5 points ||
 
 ## Project (60 points)
 This is primarily a projects based course, and so the majority of points are assigned based on the team project.
