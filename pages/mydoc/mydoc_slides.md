@@ -9,6 +9,6 @@ folder: mydoc
 
 |Date |Topic | Slides |
 |---------|-------------------|----------|
-| Jan 16th | Getting started | [Homework1](https://sarec-lab.github.io/sedrones/pdf/UAVSpring2019-Week1.pdf)
+| Jan 16th | Getting started | [Week 1 Slides](https://sarec-lab.github.io/sedrones/pdf/UAVSpring2019-Week1.pdf)
 
 {% include links.html %}
