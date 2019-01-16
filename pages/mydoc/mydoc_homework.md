@@ -5,10 +5,10 @@ permalink: mydoc_homework.html
 folder: mydoc
 ---
 
-## Homework schedule for first part of semester
+## Homework & quiz deliverables for first part of semester (40 points)
 
-All homework is assigned on Wednesday and due by midnight the following Tuesday.  All homework will be submitted to
-individual github repositories assigned to each student.  Assignments 5-6 will be submitted into a group repository.
+All homework is assigned on Wednesday and due by midnight the following Tuesday.  Students will need to install
+the course environment, available via a VM, in order to complete the homework assignments.
 
 | Num | Date Assigned | Description | Points | Link| Reading|
 |-----|---------------|---------------------------------|------|-------------------|-----------|
@@ -19,15 +19,27 @@ individual github repositories assigned to each student.  Assignments 5-6 will b
 |5 | Feb 13th | Drone-to-drone Communication (Team project - 3 people) | 5 points |||
 |6 | Feb 20th | Multi Drone-Communication continued. | 5 points |||
 |7 | Feb 27th | Prepare flight test portfolio, Acceptance Tests | 5 points (after flight) ||
-|8 | Feb 20th - March 06 | FAA Part 107b Online Quiz  | 5 points ||
+|8 | Mar 6th | FAA Part 107b + Safety Assurance online quiz  | 5 points ||
 
-## Project deliverables
-All projects will be team projects with 2-4 team members. 
+## Project deliverables (60 points)
+All projects will be team projects with 2-4 team members.  
 
 | Num | Date Assigned | Description | Points | Link|
 |-----|---------------|---------------------------------|------|-------------------|
-|9| March 6th | Team presentation + initial project documentation | 5 points | |
+|9| March 6th | Initial Team presentation + project documentation | 5 points | |
+|10| March 20th | Requirements, Architecture, and Screen Mockups due | 5 points | |
+|11| March 27th| Team presentation + initial project documentation | 5 points | |
+|12| April 3rd | Proof of concept *flying* demo due with physical UAVs | 5 points | |
+|13| April 10th | Updated project plan with specified final deliverables | 5 points | |
+|14| April 17th| Safety Analysis report due + status report | 5 points | |
+|15| April 24th | Test Case report due | 5 points | |
+|16| May 1st | Final Presentation to external panel | 10 points| |
+|17| May 9th | Final web portfolio due | 10 points | |
+|18| May 9th | Final individual project report due | 5 points | |
 
-The remaining schedule of team and individual deliverables will be listed here.
+Note: Towards the end of the semester everyone will complete an online assessment form
+for team member contribution.  Anyone making a sub-standard contribution (which is rare) will receive
+a deduction of up to 10 points.  Anyone failing to participate in a specific deliverable without explanation
+to the instructor could receive zero points for that deliverable.
 
 {% include links.html %}
