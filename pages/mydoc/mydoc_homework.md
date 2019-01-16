@@ -1,30 +1,28 @@
 ---
-title: Introduction2
+title: Homework Assignments
 sidebar: mydoc_sidebar
-permalink: mydoc_introduction2.html
+permalink: mydoc_homework.html
 folder: mydoc
 ---
 
-## Overview
+## Homework schedule for first part of semester
 
-This site provides documentation, training, and other notes for the Jekyll Documentation theme. There's a lot of information about how to do a variety of things here, and it's not all unique to this theme. But by and large, understanding how to do things in Jekyll depends on how your theme is coded. As a result, these additional details are provided.
+All homework is assigned on Wednesday and due by midnight the following Tuesday.  All homework will be submitted to
+individual github repositories assigned to each student.  Assignments 5-6 will be submitted into a group repository.
 
-The instructions here are geared towards technical writers working on documentation. You may have a team of one or more technical writers working on documentation for multiple projects. You can use this same theme to author all of your documentation for each of your products. The theme is built to accommodate documentation for multiple products on the same site.
+| Num | Date Assigned | Description | Points | Link|
+|-----|---------------|---------------------------------|------|-------------------|
+|1 | Jan 16th | Hello SITL Drone! | 5 points | Coming soon!|
+|2 | Jan 23rd | Follow me! Waypoints vs. Velocity Vectors | 5 points |  |
+|3 | Jan 30th | Build your own GCS | 5 points ||
+|4 | Feb 06th | Connect GCS to Map | 5 points ||
+|5 | Feb 13th | Drone-to-drone Communication (Team project - 3 people) | 5 points ||
+|6 | Feb 20th | Multi Drone-Communication continued. | 5 points ||
+|7 | Feb 27th | Prepare flight test portfolio, Acceptance Tests | 3 points + 3 points (when flown) |
 
-## Survey of features
+## Project deliverables
 
-Some of the more prominent features of this theme include the following:
+All projects will be team projects with 2-4 team members. The schedule of deliverables will be listed here.
 
-* Bootstrap framework
-* [Navgoco multi-level sidebar](http://www.komposta.net/article/navgoco) for table of contents
-* Ability to specify different sidebars for different products
-* Top navigation bar with drop-down menus
-* Notes, tips, and warning information notes
-* Tags for alternative navigation
-* Advanced landing page layouts from the [Modern Business theme](http://startbootstrap.com/template-overviews/modern-business/).
-
-## Getting started
-
-To get started, see [Getting Started][index].
-
+{% include links.html %}
 {% include links.html %}
