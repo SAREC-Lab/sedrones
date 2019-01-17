@@ -45,6 +45,10 @@ for team member contribution.  Anyone making a sub-standard contribution (which 
 a deduction of up to 10 points.  Anyone failing to participate in a specific deliverable without explanation
 to the instructor could receive zero points for that deliverable.
 
+## Homework feedback
+
+All grades and feedback will be committed to a feedback.txt file in your private github repository.
+
 ## Grade Assignments
 
 |A| 95 - 100| | B+|	87 – 89.99 | |C+|	77 -79.99| |D|	65 – 69.99|
