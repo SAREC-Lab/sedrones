@@ -45,4 +45,15 @@ for team member contribution.  Anyone making a sub-standard contribution (which 
 a deduction of up to 10 points.  Anyone failing to participate in a specific deliverable without explanation
 to the instructor could receive zero points for that deliverable.
 
+## Grade Assignments
+Grading Rubric:
+
+|A|  	95 - 100| B+	87 – 89.99 |C+	77 -79.99|D	65 – 69.99|
+|A-|	90 - 94.99|B	83 – 86.99|C	73 – 76.99|F 0 – 64.99|
+||B-	80 – 82.99	|C-	70 – 72.99	|
+
+
+
+
+
 {% include links.html %}
