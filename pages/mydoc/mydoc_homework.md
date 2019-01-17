@@ -55,8 +55,9 @@ to notify the instructor.
 
 ## Plagiarism
 
-All individual assignments are expected to be completed by each student individually.  Code may be reused from public sources
-(e.g., examples provided by 3DR).
+All individual assignments are expected to be completed by each student individually. Sections of code related to UAV control
+ may be reused from public sources if integrated into individual programs.  Examples of acceptable reuse would be code
+ taken from examples provided by 3DR.  All reused code must be clearly attributed.  
 
 ## Grade Assignments
 
