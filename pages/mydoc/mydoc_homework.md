@@ -45,9 +45,13 @@ for team member contribution.  Anyone making a sub-standard contribution (which 
 a deduction of up to 10 points.  Anyone failing to participate in a specific deliverable without explanation
 to the instructor could receive zero points for that deliverable.
 
-## Homework feedback
+## Homework feedback and constraints
 
-All grades and feedback will be committed to a feedback.txt file in your private github repository.
+All homework must be turned in on time unless you have an excused reason (e.g., illness or a time-consuming job
+interview) for a late submission.  Unexecused late assignments will be graded at 50% if turned in within one week.
+ All grades and feedback will be committed to a feedback.txt file in your private github repository.  You should receive feedback
+within one week of your submission.  If you do not see feedback, and you turned your homework in on time, it is your responsibility
+to notify the instructor.
 
 ## Grade Assignments
 
