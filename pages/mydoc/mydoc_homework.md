@@ -53,6 +53,11 @@ interview) for a late submission.  Unexecused late assignments will be graded at
 within one week of your submission.  If you do not see feedback, and you turned your homework in on time, it is your responsibility
 to notify the instructor.
 
+## Plagiarism
+
+All individual assignments are expected to be completed by each student individually.  Code may be reused from public sources
+(e.g., examples provided by 3DR).
+
 ## Grade Assignments
 
 |A| 95 - 100| | B+|	87 – 89.99 | |C+|	77 -79.99| |D|	65 – 69.99|
