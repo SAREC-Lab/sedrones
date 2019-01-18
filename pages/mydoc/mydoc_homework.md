@@ -66,7 +66,26 @@ All individual assignments are expected to be completed by each student individu
 |  |  | |B-| 80 – 82.99	| |C-|	70 – 72.99	|
 
 
+## Questions
 
+|How do we begin working with the simulated drone to begin working with the goto.py program in the 02_basiccommands directory?| 
+|--------------------------|
+|the code that comes with 02_basiccommands takes care of almost all of these things for you.
+There is indeed a simulator (SITL) which you have to connect to before sending any commands to your drone (such as take off, goto, etc.).
+In goto.py starting from line 35 to 50 you should find code that takes care of starting up the simulator and initializing your drone at a certain location.
+(line 40) home="41.7144367,-86.2417136,0" initialized the drone (in the simulator) on white field.
+If you, for example, change that to "41.698289, -86.233916,0" your (simulated) drone ends up in the middle of the stadium.
+
+line 41-48 then start the sitl simulator and at that point you are ready to connect to it.
+
+That's what you see in lines 56-58:
+With vehicle=connect(connection_string,wait_ready=True) you connect to the simulator and you get your 'vehicle' object which you can then use to send commands to the drone.
+
+After connecting to the simulator you can arm the drone (i.e., it does some internal checks, initializes its (virtual) gps, etc...) and then take off.
+
+(line 70-102) arm_and_takeoff(altitude)  takes care of that.
+After that you can send the drone on its way to different waypoints (i.e., latitude, longitude, altitude)
+see line 136 fly_to(...)
 
 
 {% include links.html %}
