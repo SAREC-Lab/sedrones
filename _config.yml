@@ -9,7 +9,7 @@ topnav_title: Software Engineering for UAVs
 site_title: Software Engineering for UAVs
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Your company
+company_name: University of Notre Dame
 # this appears in the footer
 
 github_editme_path:
@@ -37,10 +37,10 @@ exclude:
 
 feedback_subject_line: Jekyll documentation theme
 
-feedback_email: uavs@asd.com
+feedback_email: janehuang@nd.edu
 # used as a contact email for the Feedback link in the top navigation bar
 
-feedback_disable: true
+feedback_disable: false
 # if you uncomment the previous line, the Feedback link gets removed
 
 # feedback_text: "Need help?"
