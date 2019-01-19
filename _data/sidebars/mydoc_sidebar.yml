@@ -62,7 +62,7 @@ entries:
       output: web, pdf     
       
     - title: Piazza
-      external url: https://piazza.com/nd/spring2019/sp19cse40773cx01/home
+      url: /modoc_piazza.html
       output: web, pdf 
   
     - title: Setting up your environment 
