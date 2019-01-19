@@ -62,7 +62,7 @@ entries:
       output: web, pdf     
       
     - title: Piazza
-      url: /modoc_piazza.html
+      url: /mydoc_piazza.html
       output: web, pdf 
   
     - title: Setting up your environment 
