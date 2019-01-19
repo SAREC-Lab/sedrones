@@ -45,6 +45,20 @@ for team member contribution.  Anyone making a sub-standard contribution (which 
 a deduction of up to 10 points.  Anyone failing to participate in a specific deliverable without explanation
 to the instructor could receive zero points for that deliverable.
 
+## Homework feedback and constraints
+
+All homework must be turned in on time unless you have an excused reason (e.g., illness or a time-consuming job
+interview) for a late submission.  Unexecused late assignments will be graded at 50% if turned in within one week.
+ All grades and feedback will be committed to a feedback.txt file in your private github repository.  You should receive feedback
+within one week of your submission.  If you do not see feedback, and you turned your homework in on time, it is your responsibility
+to notify the instructor.
+
+## Plagiarism
+
+All individual assignments are expected to be completed by each student individually. Sections of code related to UAV control
+ may be reused from public sources if integrated into individual programs.  Examples of acceptable reuse would be code
+ taken from examples provided by 3DR.  All reused code must be clearly attributed.  
+
 ## Grade Assignments
 
 |A| 95 - 100| | B+|	87 – 89.99 | |C+|	77 -79.99| |D|	65 – 69.99|
@@ -53,6 +67,3 @@ to the instructor could receive zero points for that deliverable.
 
 
 
-
-
-{% include links.html %}
