@@ -10,5 +10,6 @@ folder: mydoc
 |Date |Topic | Slides |
 |---------|-------------------|----------|
 | Jan 16th | Getting started | [Week 1 Slides](https://sarec-lab.github.io/sedrones/pdf/UAVSpring2019-Week1.pdf)
+| Jan 23rd | Flying Techniques | [Week 2 Slides](https://sarec-lab.github.io/sedrones/pdf/UAVSpring2019-Week2-Distribution.pdf)
 
 {% include links.html %}
