@@ -19,8 +19,8 @@ with projects during the second half of the semester.
 |-----|---------------|---------------------------------|-------------------|
 |1 | Jan 16th | Introduction. Brief intro to Dronekit Python. First Flight!| Setup environment. Run first program|
 |2 | Jan 23rd | Dronekit basics. Waypoints vs. Velocity vectors. FAA regulations. | Lab: Hello Physical Drone! Airspace Maps|
-|3 | Jan 30th | Working with multiple drones. Ground Control Stations | Lab: Connecting to multiple SITL instances ||
-|4 | Feb 06th | Safety Assurance for Cyber Physical Systems | Lab: Safety Cases|
+|3 | Jan 30th | Working with multiple drones. Safety and Collision Avoidance | Lab: Postponed due to Polar Vortex.  Will be made up later in the semester through additional flying time. ||
+|4 | Feb 06th | Ground Control Stations and Connecting to Dronology | Lab: Connecting to physical UAVs.|
 |5 | Feb 13th | Working with companion computers and in-air drone-to-drone communication| Lab: SITL exercise using PIs|
 |6 | Feb 20th | Calibration, Setting Geo-Fence| Lab: Calibrating, Status reports, Group Time |
 |7 | Feb 27th | Group presentations (Hwk 5 & 6). Project brainstorming and assignments.| Project teams|
