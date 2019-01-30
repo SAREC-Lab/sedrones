@@ -14,8 +14,8 @@ the course environment, available via a VM, in order to complete the homework as
 |-----|---------------|---------------------------------|------|-------------------|-----------|
 |1 | Jan 16th | Jan 22nd |Hello SITL Drone! | 5 points |[Homework1](https://sarec-lab.github.io/sedrones/pdf/2019-Assignment1.pdf) |[Therac](https://drive.google.com/file/d/1eFU9zddbomDp_acTg6mUFz5MZUXngYAC/view?usp=sharing)|
 |2 | Jan 23rd | Jan 29th |Follow me! Waypoints vs. Velocity Vectors | 5 points | [Homework2](https://sarec-lab.github.io/sedrones/pdf/2019-Assignment2.pdf) |[NASA's UTM](https://drive.google.com/file/d/17Rly2vbCawfGKaHWO3jznbrp4xPSNnHt/view?usp=sharing)|
-|3 | Jan 30th | Feb 5th |Build your own GCS | 5 points |||
-|4 | Feb 06th | Feb 12th |Connect GCS to Map | 5 points |||
+|3 | Jan 30th | Feb 5th |Multi-Drone Flight and Collision Avoidance | 5 points |[Homework3](link coming)|[NASA's UTM](https://drive.google.com/file/d/17Rly2vbCawfGKaHWO3jznbrp4xPSNnHt/view?usp=sharing)|
+|4 | Feb 06th | Feb 12th |Build your own GCS and connect to Dronology Map | 5 points |||
 |5 | Feb 13th | Feb 19th |Drone-to-drone Communication (Team project - 3 people) | 5 points |||
 |6 | Feb 20th | Feb 26th| Multi Drone-Communication continued. | 5 points |||
 |7 | Feb 27th | Mar 5th |Prepare flight test portfolio, Acceptance Tests | 5 points (after flight) ||
