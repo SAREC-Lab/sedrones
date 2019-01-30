@@ -16,9 +16,11 @@ will require a Notre Dame login in order to retrieve the document.
 [Therac 25 Years Later](https://drive.google.com/file/d/1eFU9zddbomDp_acTg6mUFz5MZUXngYAC/view?usp=sharing)
 (Week 1 reading)
 
-## Optional readings
+* NASA's UAS Traffic Management System [NASA's UTM](https://drive.google.com/file/d/17Rly2vbCawfGKaHWO3jznbrp4xPSNnHt/view?usp=sharing)|
+(Week 2 reading)
 
-Coming soon!
+* A Survey of Unmanned Aerial Vehicle Collision Avoidance Systems [Survey of Collision Avoidance for UAVs](https://arxiv.org/ftp/arxiv/papers/1508/1508.07723.pdf)
+(Week 3 reading)
 
 {% include links.html %}
 
