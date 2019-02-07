@@ -23,7 +23,7 @@ folder: mydoc
 | Graduate TA:| Ankit Agrawal |
 | Email: | aagrawa2@nd.edu|
 | Office: | Cushing 211D |
-| Hours: | tbd|
+| Hours: | 1.45pm-3.45pm Thursdays|
 
 | Undergraduate TA:| Nathaniel Hanson |
 | Email: | nhanson2@nd.edu|
