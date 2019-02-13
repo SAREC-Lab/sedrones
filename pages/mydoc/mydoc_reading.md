@@ -25,6 +25,9 @@ will require a Notre Dame login in order to retrieve the document.
 * Supporting Search and Rescue Operations with UAVs [Search and Rescue](https://www.cs.ox.ac.uk/files/3198/submission_waharte.pdf)
 (Week 4 reading)
 
+* The Decision View’s Role in Software Architecture Practice [Architectural Decisions](https://drive.google.com/file/d/17nSHYhRlOGzOrV3CNnLN4d6mWjXyOv28/view?usp=sharing)
+(Week 5 reading -- to help you think about architectural decision making)
+
 {% include links.html %}
 
 
