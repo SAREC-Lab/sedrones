@@ -24,16 +24,14 @@ with projects during the second half of the semester.
 |5 | Feb 13th | Working with companion computers and in-air drone-to-drone communication| Lab: SITL exercise using PIs|
 |6 | Feb 20th | Calibration, Setting Geo-Fence| Lab: Calibrating, Status reports, Group Time |
 |7 | Feb 27th | Group presentations (Hwk 5 & 6). Project brainstorming and assignments.| Project teams|
-|8 | March 06 | Group time. Project presentations. (IF weather is warm -- Flying!) |Project teams or flying. |
-|9| March 6th | Initial Team presentation + project documentation | Presentations + group time|
-|10| March 20th | Project time |Team meetings, Meet with instructor|
-|11| March 27th| Project time | Team meetings, Meet with instructor |
-|12| April 3rd | Proof of concept *flying* demo due with physical UAVs | Scheduled demos at White Field |
-|13| April 10th | Project time| Team meetings, Meet with instructor |
-|14| April 17th| Focus on safety activities | Team meetings, Instructor meetings|
-|15| April 24th | Focus on testing activities| Team meetings, Instructor meetings |
-|16| May 1st | Formal presentation to external panel |Panel|
-|17| May 9th | Finals week | n/a|
-|18| May 9th | Finals week | n/a |
+|8 | March 06 | Group time. Short project presentations. (IF weather is warm -- Flying!) |Project teams or flying. |
+||March 13| Spring break|Enjoy!|
+|9| March 20th | Project time |Team meetings, Meet with instructor|
+|10| March 27th| Project time | Team meetings, Meet with instructor |
+|11| April 3rd | Proof of concept *flying* demo due with physical UAVs | Scheduled demos at White Field |
+|12| April 10th | Project time| Team meetings, Meet with instructor |
+|13| April 17th| Focus on safety activities | Team meetings, Instructor meetings|
+|14| April 24th | Focus on testing activities| Team meetings, Instructor meetings |
+|15| May 1st | Formal presentation to external panel |Panel|
+|16| May 9th | Finals week | n/a|
 {% include links.html %}
-
