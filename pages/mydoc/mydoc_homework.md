@@ -1,11 +1,11 @@
----
+﻿---
 title: Course Deliverables
 sidebar: mydoc_sidebar
 permalink: mydoc_homework.html
 folder: mydoc
 ---
 
-## Homework (40 points)
+## Homework (40 points) 
 
 All homework is assigned on Wednesday and due by midnight the following Tuesday.  Students will need to install
 the course environment, available via a VM, in order to complete the homework assignments.
@@ -29,7 +29,7 @@ teams will be formed by February 27th.  The following dates represent TURN IN DA
 
 | Num | Date DUE | Description | Points | Link|
 |-----|---------------|---------------------------------|------|-------------------|
-|9| March 6th | Initial Team presentation + project documentation | 5 points | |
+|9| March 6th | Initial Team presentation | 5 points | |
 |10| March 20th | Requirements, Architecture, and Screen Mockups due | 5 points | |
 |11| March 27th| Team presentation + initial project documentation | 5 points | |
 |12| April 3rd | Proof of concept *flying* demo due with physical UAVs | 5 points | |
