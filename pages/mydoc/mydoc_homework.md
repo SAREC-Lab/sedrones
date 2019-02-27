@@ -17,8 +17,8 @@ the course environment, available via a VM, in order to complete the homework as
 |3 | Jan 30th | Feb 5th |Multi-Drone Flight and Collision Avoidance | 5 points |[Homework3](https://sarec-lab.github.io/sedrones/pdf/2019-Assignment3.pdf)|[Survey of Collision Avoidance for UAVs](https://arxiv.org/ftp/arxiv/papers/1508/1508.07723.pdf)|
 |4 | Feb 06th | Feb 12th |Build your own GCS and connect to Dronology Map | 5 points |[Homework4](https://sarec-lab.github.io/sedrones/pdf/2019-Assignment4.pdf)|[UAV Search Algorithms](https://www.cs.ox.ac.uk/files/3198/submission_waharte.pdf)|
 |5 | Feb 13th | Feb 19th |Drone-to-drone Communication (Team project - 3 people) | 2 weeks (Modified) |[Homework5](https://sarec-lab.github.io/sedrones/pdf/2019-Assignment5.pdf)|[Architectural Decisions](https://drive.google.com/file/d/17nSHYhRlOGzOrV3CNnLN4d6mWjXyOv28/view?usp=sharing)|
-|6 | Feb 20th | Feb 26th| Multi Drone-Communication continued. | 10 points |See Homework 5 ||
-|7 | Feb 27th | Mar 5th |Prepare flight test portfolio, Acceptance Tests | 5 points (after flight) ||
+|6 | Feb 20th | Feb 26th| Multi Drone-Communication continued. | 10 points |Homework 6 -- see Homework 5 description ||
+|7 | Feb 27th | Mar 5th |Prepare flight test portfolio, Acceptance Tests | 5 points (after flight) |[Homework5](https://sarec-lab.github.io/sedrones/pdf/2019-Assignment7.pdf)||
 |8 | March 6th | Mar 20th | Online Quiz (may retake)  | 5 points ||
 
 ## Project (60 points)
@@ -26,6 +26,8 @@ This is primarily a projects based course, and so the majority of points are ass
 Everyone will work with a team of 2-4 people. Teams may be self-organized according to project interests; however
 the instructor reserves the right to add additional people to teams to ensure a good fit for every student.  Project
 teams will be formed by February 27th.  The following dates represent TURN IN DATES.
+
+A description of weekly project deliverables can be found here: [Weekly Deliverables](https://sarec-lab.github.io/sedrones/pdf/2019-ProjectRequirements.pdf)
 
 | Num | Date DUE | Description | Points | Link|
 |-----|---------------|---------------------------------|------|-------------------|
