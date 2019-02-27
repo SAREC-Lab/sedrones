@@ -30,7 +30,7 @@ teams will be formed by February 27th.  The following dates represent TURN IN DA
 | Num | Date DUE | Description | Points | Link|
 |-----|---------------|---------------------------------|------|-------------------|
 |9| March 6th | Initial Team presentation | 5 points | |
-|10| March 20th | Requirements, Architecture, and Screen Mockups due | 5 points | |
+|10| March 20th | Requirements, Architecture, and Screen Mockups  | 5 points | |
 |11| March 27th| Team presentation + initial project documentation | 5 points | |
 |12| April 3rd | Proof of concept *flying* demo due with physical UAVs | 5 points | |
 |13| April 10th | Updated project plan with specified final deliverables | 5 points | |
