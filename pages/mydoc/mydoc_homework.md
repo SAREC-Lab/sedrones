@@ -19,7 +19,7 @@ the course environment, available via a VM, in order to complete the homework as
 |5 | Feb 13th | Feb 19th |Drone-to-drone Communication (Team project - 3 people) | 2 weeks (Modified) |[Homework5](https://sarec-lab.github.io/sedrones/pdf/2019-Assignment5.pdf)|[Architectural Decisions](https://drive.google.com/file/d/17nSHYhRlOGzOrV3CNnLN4d6mWjXyOv28/view?usp=sharing)|
 |6 | Feb 20th | Feb 26th| Multi Drone-Communication continued. | 10 points |[Homework6 (same as hwk 5)](https://sarec-lab.github.io/sedrones/pdf/2019-Assignment5.pdf) ||
 |7 | Feb 27th | Mar 5th |Prepare flight test portfolio, Acceptance Tests | 5 points (after flight) |[Homework7](https://sarec-lab.github.io/sedrones/pdf/2019-Assignment7.pdf)||
-|8 | March 6th | Mar 20th | Online Quiz (may retake)  | 5 points ||
+|8 | March 6th | Mar 20th | Online Quiz (may retake)  | 5 points |[Safety Quiz](https://nd.qualtrics.com/jfe/form/SV_9mCXBQxHIeTRpwp)||
 
 ## Project (60 points)
 This is primarily a projects based course, and so the majority of points are assigned based on the team project.
