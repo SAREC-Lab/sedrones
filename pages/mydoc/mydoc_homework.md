@@ -37,7 +37,7 @@ A description of weekly project deliverables can be found here: [Weekly Delivera
 |12| April 3rd | Proof of concept *flying* demo due with physical UAVs | 5 points | |
 |13| April 10th | Updated project plan with specified final deliverables | 5 points | |
 |14| April 17th| Safety Analysis report due + status report | 5 points | |
-|15| April 24th | Test Case report due | 5 points | |
+|15| April 24th | Test Case report due | 5 points |[Acceptance Test Examples](https://sarec-lab.github.io/sedrones/pdf/AcceptanceTests.pdf) |
 |16| May 1st | Final Presentation to external panel | 10 points| |
 |17| May 9th | Final web portfolio due | 10 points | |
 |18| May 9th | Final individual project report due | 5 points | |
