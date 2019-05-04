@@ -39,7 +39,7 @@ A description of weekly project deliverables can be found here: [Weekly Delivera
 |14| April 17th| Safety Analysis report due + status report | 5 points | |
 |15| April 24th | Test Case report due | 5 points |[Acceptance Test Examples](https://sarec-lab.github.io/sedrones/pdf/AcceptanceTests.pdf) |
 |16| May 1st | Final Presentation to external panel | 10 points|[Presentation Instructions](https://sarec-lab.github.io/sedrones/pdf/ProjectTeamPresentationInstructions.pdf) [Panelist Instructions](https://sarec-lab.github.io/sedrones/pdf/PanelistInstructions.pdf) |
-|17| May 9th | Final web portfolio due | 10 points | |
+|17| May 9th | Final web portfolio due | 10 points | [Project Portfolio Guidelines](https://sarec-lab.github.io/sedrones/pdf/ProjectTeamPortfolio.pdf)|
 |18| May 9th | Final individual project report due | 5 points | |
 
 Note: Towards the end of the semester everyone will complete an online assessment form
